@@ -2,6 +2,9 @@
 
 A powerful and interactive document retrieval system that implements the Vector Space Model (VSM) for efficient text search and retrieval. This system provides both a command-line interface and a graphical user interface for searching through document collections.
 
+![image](https://github.com/user-attachments/assets/b7992b67-c84b-43bc-b13f-5b3a2653c4d5)
+
+
 ## 🌟 Features
 
 - **Advanced Text Processing**
